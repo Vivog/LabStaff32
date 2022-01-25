@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "C:\Users\Vivog\AppData\Local\Programs\Python\Python310-32\Projects\LabStaff32\res\NDL6Ico.ico" main.py
